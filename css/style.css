@@ -1,0 +1,31 @@
+h1 {
+  color: #FFB6C1;
+  text-shadow: 2px 2px #;
+  font-weight: lighter;
+  font-size: 150px;
+  text-align: center;
+  font-family: cursive;
+}
+
+p {
+  color: #FFB6C1;
+  font-size: 20px;
+  text-align: center;
+  font-family: monospace;
+}
+
+ul {
+  color: #FFB6C1;
+  font-size: 20px;
+  font-style: italic;
+  font-family: monospace;
+}
+
+a {
+  color: #FFB6C1;
+  text-decoration: none;
+}
+
+body {
+  background-color: #F0F8FF;
+}
